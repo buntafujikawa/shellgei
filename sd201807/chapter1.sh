@@ -37,8 +37,7 @@ du -hs /usr/* | sort -hr
 12M     /usr/include
 11M     /usr/sbin
 108K    /usr/local
-4.0K    /usr/src
-4.0K    /usr/games
+4.0K    /usr/src4.0K    /usr/games
 #COMMENT
 
 # 04 特殊なパーミッション
